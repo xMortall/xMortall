@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="left"> 
   <a href="https://www.youtube.com/@xmortall__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xMortall/xMortall/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/xMortall/xMortall/output/snake.svg](https://github.com/xMortall/xMortall/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
