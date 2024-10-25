@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/A6RcWds41-gAAAAM/akali-ramen.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/RN8zxz9bC2gAAAAd/akali-akalirework.gif"  />
 
 ###
 
