@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/xMortall/xMortall/blob/main/.github/workflows/main.svg" alt=" " />
+<img src="https://github.com/xMortall/xMortall/blob/output/github-contribution-grid-snake.gif" alt=" " />
 
 ###
