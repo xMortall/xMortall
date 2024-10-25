@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/xMortall/xMortall/blob/output/github-contribution-grid-snake.gif" alt=" " />
+![snake gif](https://github.com/xMortall/xMortall/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
