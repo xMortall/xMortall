@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/xMortall/xMortall/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/xMortall/xMortall/blob/main/snake.svg" alt=" " />
 
 ###
