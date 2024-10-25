@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is xMortal and I'm a Programer , from Portugal</h2>
+![image](https://github.com/user-attachments/assets/4377eb9e-a037-4f26-b572-d270cf78cf0b)<h2 align="left">Hi 👋! My name is xMortal and I'm a Programer , from Portugal</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/fe418ebf54105f9f6b643b73ea2d9334/abfd9096b8324b83-70/s400x600/bec85d8a0b5fb157e1cc27d68eb4d8e14b37ec1f.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh5ZzlzYm1tbDlheG4xNDgwaXoyNm11ZWNoOW1mc2R5dGFpY3M0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWcNWtfqzySDYqkORw/giphy.webp"  />
 
 ###
 
