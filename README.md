@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4377eb9e-a037-4f26-b572-d270cf78cf0b)<h2 align="left">Hi 👋! My name is xMortal and I'm a Programer , from Portugal</h2>
+<h2 align="left">Hi 👋! My name is xMortal and I'm a Programer , from Portugal</h2>
 
 ###
 
