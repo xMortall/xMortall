@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh5ZzlzYm1tbDlheG4xNDgwaXoyNm11ZWNoOW1mc2R5dGFpY3M0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWcNWtfqzySDYqkORw/giphy.webp"  />
+<img align="right" height="150" src="https://media.tenor.com/TuV4NlPM1EIAAAAM/zetrystan-gengar.gif"  />
 
 ###
 
