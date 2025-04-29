@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is xMortal and I'm a Programer , from Azores</h2>
+<h2 align="left">Hi 👋! My name is Emanuel Borges and I'm a Programer , from Azores</h2>
 
 ###
 
