@@ -65,5 +65,5 @@
  
 ###
 
-[![Jogue DOOM](https://i.imgur.com/6f0eW8B.png)](https://seuusuario.github.io/doom-web/)
+[![Jogar DOOM]([https://i.imgur.com/6f0eW8B.png](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif))](https://seuusuario.github.io/doom-web/)
 
