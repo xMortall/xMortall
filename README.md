@@ -68,6 +68,6 @@
   <p>Jogar DOOM</p>
   <a href="https://seuusuario.github.io/doom-web/">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkzMWg5ajBjMDI0ZXllYmZ2MGlkaG93c3JuemdvZzExa3kxZWUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f46iWuMqIGuXe/giphy.gif" 
-         alt="Jogar DOOM" width="20">
+         alt="Jogar DOOM" width="100">
   </a>
 </div>
