@@ -65,5 +65,5 @@
  
 ###
 
-[![Jogar DOOM](https://i.imgur.com/6f0eW8B.png](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdoom-pc&psig=AOvVaw1Z4gqUUj8XDZWDQqz1CIrH&ust=1760436494334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDTtJL3oJADFQAAAAAdAAAAABAE.gif)](https://seuusuario.github.io/doom-web/)
+[![Jogar DOOM](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkzMWg5ajBjMDI0ZXllYmZ2MGlkaG93c3JuemdvZzExa3kxZWUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f46iWuMqIGuXe/giphy.gif)](https://seuusuario.github.io/doom-web/)
 
