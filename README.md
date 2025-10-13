@@ -64,3 +64,15 @@
   />
  
 ###
+
+
+<html>
+  <body style="background:black;">
+    <div id="jsdos"></div>
+    <script src="https://js-dos.com/6.22/current/js-dos.js"></script>
+    <script>
+      Dos(document.getElementById("jsdos")).run("doom.jsdos");
+    </script>
+  </body>
+</html>
+
