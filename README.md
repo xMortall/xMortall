@@ -28,10 +28,11 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/@xmortall_" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"
     height="35" 
     alt="discord logo"
+    />
   <a/>
 </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=exemplo@gmail.com" target="_blank">
